@@ -43,4 +43,4 @@ The model demonstrates reasonable predictive performance and highlights the impa
 
 ## Author
 Alina Hasan  
-MS Data Science, Johns Hopkins University
+BS Computer Science, University of Missouri Kansas City
